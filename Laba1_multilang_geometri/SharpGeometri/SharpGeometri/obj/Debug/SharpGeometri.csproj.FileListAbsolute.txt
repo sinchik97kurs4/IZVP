@@ -1,0 +1,14 @@
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\obj\Debug\SharpGeometri.csprojResolveAssemblyReference.cache
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\obj\Debug\SharpGeometri.Form1.resources
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\obj\Debug\SharpGeometri.Properties.Resources.resources
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\obj\Debug\SharpGeometri.csproj.GenerateResource.Cache
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\bin\Debug\SharpGeometri.exe.config
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\bin\Debug\SharpGeometri.exe
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\bin\Debug\SharpGeometri.pdb
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\bin\Debug\ClassLibrary1.dll
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\bin\Debug\VBLibrary.dll
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\bin\Debug\ClassLibrary1.pdb
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\bin\Debug\VBLibrary.pdb
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\bin\Debug\VBLibrary.xml
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\obj\Debug\SharpGeometri.exe
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\SharpGeometri\obj\Debug\SharpGeometri.pdb

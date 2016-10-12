@@ -1,0 +1,9 @@
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\VBLibrary\bin\Debug\VBLibrary.dll
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\VBLibrary\bin\Debug\VBLibrary.pdb
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\VBLibrary\bin\Debug\VBLibrary.xml
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\VBLibrary\obj\Debug\VBLibrary.Resources.resources
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\VBLibrary\obj\Debug\VBLibrary.vbproj.GenerateResource.Cache
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\VBLibrary\obj\Debug\VBLibrary.dll
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\VBLibrary\obj\Debug\VBLibrary.xml
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\VBLibrary\obj\Debug\VBLibrary.pdb
+D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\VBLibrary\obj\Debug\VBLibrary.vbprojResolveAssemblyReference.cache

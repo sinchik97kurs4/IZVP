@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Test>
+    <id>0</id>
+    <mark>3</mark>
+    <Name>ыфв</Name>
+    <group>фыв</group>
+    <Date>ыфв</Date>
+  </Test>
+  <Test>
+    <id>1</id>
+    <mark>3</mark>
+    <Name>ыфв</Name>
+    <group>фыв</group>
+    <Date>ыфв</Date>
+  </Test>
+  <Test>
+    <id>2</id>
+    <mark>3</mark>
+    <Name>ыфв</Name>
+    <group>фыв</group>
+    <Date>ыфв</Date>
+  </Test>
+  <Test>
+    <id>3</id>
+    <mark>3</mark>
+    <Name>ыфв</Name>
+    <group>фыв</group>
+    <Date>ыфв</Date>
+  </Test>
+</ArrayOfTest> </Test>
+  <Test>
+    <id>4</id>
+    <mark>4</mark>
+    <Name>фдылтв</Name>
+    <group>ывп</group>
+    <Date>ыфв</Date>
+  </Test>
+</ArrayOfTest><id>5</id>
+    <mark>4</mark>
+    <Name>фдылтв</Name>
+    <group>ывп</group>
+    <Date>ыфв</Date>
+  </Test>
+</ArrayOfTest>

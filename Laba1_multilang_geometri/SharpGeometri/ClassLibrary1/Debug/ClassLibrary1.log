@@ -1,0 +1,5 @@
+﻿  ClassLibrary1.cpp
+d:\programming projects\laba1_multilang_geometri\sharpgeometri\classlibrary1\classlibrary1.h(30): warning C4715: 'ClassLibrary1::GetSqrt::Volume': not all control paths return a value
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ClassLibrary1.vcxproj -> D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\Debug\ClassLibrary1.dll
+  ClassLibrary1.vcxproj -> D:\Programming Projects\Laba1_multilang_geometri\SharpGeometri\Debug\ClassLibrary1.pdb (Partial PDB)

@@ -1,0 +1,14 @@
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\obj\Debug\MultiLang.csprojResolveAssemblyReference.cache
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\obj\Debug\MultiLang.Form1.resources
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\obj\Debug\MultiLang.Properties.Resources.resources
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\obj\Debug\MultiLang.csproj.GenerateResource.Cache
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\bin\Debug\MultiLang.exe.config
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\bin\Debug\MultiLang.exe
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\bin\Debug\MultiLang.pdb
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\bin\Debug\ClassLibrary1.dll
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\bin\Debug\ClassLibrary1.pdb
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\bin\Debug\ClassLibrary1.xml
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\obj\Debug\MultiLang.exe
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\obj\Debug\MultiLang.pdb
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\bin\Debug\СPlusPlus.dll
+D:\Programming Projects\Laba1_MultiLang\MultiLang\MultiLang\bin\Debug\СPlusPlus.pdb
