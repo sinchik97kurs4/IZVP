@@ -1,1 +1,11 @@
 D:\Programming Projects\IZVP\Laba3\DataBaseLaba3\DataBaseLaba3\bin\Debug\DataBaseLaba3.exe.config
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\bin\Debug\DataBaseLaba3.exe.config
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\bin\Debug\DataBaseLaba3.exe
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\bin\Debug\DataBaseLaba3.pdb
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.csprojResolveAssemblyReference.cache
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.Form1.resources
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.Properties.Resources.resources
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.csproj.GenerateResource.Cache
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.exe
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.pdb
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\bin\Debug\MySql.Data.dll

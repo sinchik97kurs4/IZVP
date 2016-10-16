@@ -29,89 +29,91 @@
         private void InitializeComponent()
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
+            this.AdministrationTab = new System.Windows.Forms.TabPage();
+            this.AccountMangmentTab = new System.Windows.Forms.TabPage();
+            this.CharactersTab = new System.Windows.Forms.TabPage();
             this.label1 = new System.Windows.Forms.Label();
+            this.ConnectionLabel = new System.Windows.Forms.Label();
+            this.ConnetcBtn = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
             // 
-            this.tabControl1.Controls.Add(this.tabPage1);
-            this.tabControl1.Controls.Add(this.tabPage2);
-            this.tabControl1.Controls.Add(this.tabPage3);
-            this.tabControl1.Controls.Add(this.tabPage4);
-            this.tabControl1.Controls.Add(this.tabPage5);
+            this.tabControl1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.tabControl1.Controls.Add(this.AdministrationTab);
+            this.tabControl1.Controls.Add(this.AccountMangmentTab);
+            this.tabControl1.Controls.Add(this.CharactersTab);
             this.tabControl1.Location = new System.Drawing.Point(12, 29);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(950, 472);
             this.tabControl1.TabIndex = 0;
             // 
-            // tabPage1
+            // AdministrationTab
             // 
-            this.tabPage1.Location = new System.Drawing.Point(4, 22);
-            this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(942, 446);
-            this.tabPage1.TabIndex = 0;
-            this.tabPage1.Text = "Адміністрація";
-            this.tabPage1.UseVisualStyleBackColor = true;
+            this.AdministrationTab.Location = new System.Drawing.Point(4, 22);
+            this.AdministrationTab.Name = "AdministrationTab";
+            this.AdministrationTab.Padding = new System.Windows.Forms.Padding(3);
+            this.AdministrationTab.Size = new System.Drawing.Size(942, 446);
+            this.AdministrationTab.TabIndex = 0;
+            this.AdministrationTab.Text = "Адміністрація";
+            this.AdministrationTab.UseVisualStyleBackColor = true;
             // 
-            // tabPage2
+            // AccountMangmentTab
             // 
-            this.tabPage2.Location = new System.Drawing.Point(4, 22);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(942, 446);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "Створення аккаунтів";
-            this.tabPage2.UseVisualStyleBackColor = true;
+            this.AccountMangmentTab.Location = new System.Drawing.Point(4, 22);
+            this.AccountMangmentTab.Name = "AccountMangmentTab";
+            this.AccountMangmentTab.Padding = new System.Windows.Forms.Padding(3);
+            this.AccountMangmentTab.Size = new System.Drawing.Size(942, 446);
+            this.AccountMangmentTab.TabIndex = 1;
+            this.AccountMangmentTab.Text = "Створення аккаунтів";
+            this.AccountMangmentTab.UseVisualStyleBackColor = true;
             // 
-            // tabPage3
+            // CharactersTab
             // 
-            this.tabPage3.Location = new System.Drawing.Point(4, 22);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(942, 446);
-            this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "Ігровий світ";
-            this.tabPage3.UseVisualStyleBackColor = true;
-            // 
-            // tabPage4
-            // 
-            this.tabPage4.Location = new System.Drawing.Point(4, 22);
-            this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(942, 446);
-            this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "Ігрові персонажі";
-            this.tabPage4.UseVisualStyleBackColor = true;
-            // 
-            // tabPage5
-            // 
-            this.tabPage5.Location = new System.Drawing.Point(4, 22);
-            this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage5.Size = new System.Drawing.Size(942, 446);
-            this.tabPage5.TabIndex = 4;
-            this.tabPage5.Text = "Не ігрові персонажі";
-            this.tabPage5.UseVisualStyleBackColor = true;
+            this.CharactersTab.Location = new System.Drawing.Point(4, 22);
+            this.CharactersTab.Name = "CharactersTab";
+            this.CharactersTab.Padding = new System.Windows.Forms.Padding(3);
+            this.CharactersTab.Size = new System.Drawing.Size(942, 446);
+            this.CharactersTab.TabIndex = 3;
+            this.CharactersTab.Text = "Ігрові персонажі";
+            this.CharactersTab.UseVisualStyleBackColor = true;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe Print", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label1.Location = new System.Drawing.Point(786, 9);
+            this.label1.Location = new System.Drawing.Point(803, -2);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(136, 28);
+            this.label1.Size = new System.Drawing.Size(159, 28);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Welcom, user ...";
+            this.label1.Text = "Welcom, manager.";
             this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // ConnectionLabel
+            // 
+            this.ConnectionLabel.AutoSize = true;
+            this.ConnectionLabel.Font = new System.Drawing.Font("Segoe Print", 12F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.ConnectionLabel.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.ConnectionLabel.Location = new System.Drawing.Point(12, -2);
+            this.ConnectionLabel.Name = "ConnectionLabel";
+            this.ConnectionLabel.Size = new System.Drawing.Size(211, 28);
+            this.ConnectionLabel.TabIndex = 2;
+            this.ConnectionLabel.Text = "Database is disconnetced";
+            // 
+            // ConnetcBtn
+            // 
+            this.ConnetcBtn.Location = new System.Drawing.Point(231, 3);
+            this.ConnetcBtn.Name = "ConnetcBtn";
+            this.ConnetcBtn.Size = new System.Drawing.Size(75, 23);
+            this.ConnetcBtn.TabIndex = 3;
+            this.ConnetcBtn.Text = "Connect";
+            this.ConnetcBtn.UseVisualStyleBackColor = true;
+            this.ConnetcBtn.Click += new System.EventHandler(this.ConnetcBtn_Click);
             // 
             // Form1
             // 
@@ -119,6 +121,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.ClientSize = new System.Drawing.Size(986, 503);
+            this.Controls.Add(this.ConnetcBtn);
+            this.Controls.Add(this.ConnectionLabel);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
@@ -132,12 +136,12 @@
         #endregion
 
         private System.Windows.Forms.TabControl tabControl1;
-        private System.Windows.Forms.TabPage tabPage1;
-        private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.TabPage tabPage3;
-        private System.Windows.Forms.TabPage tabPage4;
-        private System.Windows.Forms.TabPage tabPage5;
+        private System.Windows.Forms.TabPage AdministrationTab;
+        private System.Windows.Forms.TabPage AccountMangmentTab;
+        private System.Windows.Forms.TabPage CharactersTab;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label ConnectionLabel;
+        private System.Windows.Forms.Button ConnetcBtn;
     }
 }
 
