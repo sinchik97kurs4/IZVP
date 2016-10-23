@@ -9,3 +9,5 @@ A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.csproj.Gene
 A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.exe
 A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.pdb
 A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\bin\Debug\MySql.Data.dll
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.Autorization.resources
+A:\HPK_Repo\IZVP\DataBaseLaba3\DataBaseLaba3\obj\Debug\DataBaseLaba3.User.resources

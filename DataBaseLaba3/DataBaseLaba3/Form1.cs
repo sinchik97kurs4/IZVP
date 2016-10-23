@@ -8,8 +8,17 @@ namespace DataBaseLaba3
 {
     public partial class Form1 : Form
     {
-        bool isConnected = false;
-       MySqlConnection connetion = new MySqlConnection("server=127.0.0.1;user id=root;database=RPG_DB");
+        public Autorization parent;
+        string username;
+       MySqlConnection connetion = new MySqlConnection("server=127.0.0.1;user id=root;database=game");
+
+        public Form1(string name,Autorization form)
+        {
+            parent = form;
+            username = name;
+            InitializeComponent();
+        }
+
 
         public Form1()
         {
@@ -23,21 +32,25 @@ namespace DataBaseLaba3
 
         private void ConnetcBtn_Click(object sender, EventArgs e)
         {
-            if (isConnected == false)
-            {
-                isConnected = true;
-                ConnectionLabel.Text = "Database is connected";
-                ConnetcBtn.Text = "Disconnect";
-                connetion.Open();
-            }
-            else
-            {
-                isConnected = false;
-                ConnectionLabel.Text = "Database is disconnected";
-                ConnetcBtn.Text = "Connect";
-                connetion.Close();
+            
+        }
 
-            }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            connetion.Open();
+            label1.Text = "Welcom, "+ username+" =)";
+            ConnectionLabel.Text = "Database is connected";
+        
+        }
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            parent.Show();
         }
     }
 }
